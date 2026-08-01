@@ -48,7 +48,7 @@ IBM HR Analytics – Employee Attrition & Performance
 
 ## Project Structure
 
-- attrition_analysis.ipynb — Complete exploratory data analysis, visualizations, and business insights.
+- Employee_Attrition_and_Performance_Analysis.ipynb — Complete exploratory data analysis, visualizations, and business insights.
 - WA_Fn-UseC_-HR-Employee-Attrition.csv — Dataset used for the analysis.
 - README.md — Project documentation.
 
